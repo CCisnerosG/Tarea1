@@ -1,0 +1,47 @@
+#tituloPrincipal{
+    color: red;
+}
+
+.parrafos{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+.enfasis{
+    background-color: buttonshadow;
+    color: red;
+}
+
+a{
+    color: crimson;
+}
+
+a:hover{
+    background-color: darkred;
+    color: white;
+    border-radius: 10px;
+    transition: 0.7s;
+}
+
+
+a:visited{
+    font-size: 27;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo{
+    font-size: 35px;
+    color: crimson;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
